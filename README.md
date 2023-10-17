@@ -1,0 +1,4 @@
+- 👋 Hi, I’m **@bonddixon**
+- 👀 I’m interested in **all things code related, law**
+- 🌱 I’m currently learning **how to administer networks**
+- 🎓 Bachelor of Civil Law @ Oxford University  
